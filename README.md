@@ -1,4 +1,5 @@
 # WIREFRAME-MUSK-SERVICE-LTD.
+<hr>;
 Hello this is daniel
 <!DOCTYPE html>
 <html>
@@ -6,6 +7,8 @@ Hello this is daniel
     <title>Everyday with Isa </title>
   </head>
   <body>
+     
+    <hr>;
     <nav>
     <a href="#contact"><img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg" /> </a>
     </nav>
